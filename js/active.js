@@ -280,13 +280,13 @@
               items:2
             },
             768:{
-              items:3
+              items:4
             },
 			992:{
-                items:4
+                items:5
             },
             1920:{
-              items:4
+              items:5
             }
         }
     });
